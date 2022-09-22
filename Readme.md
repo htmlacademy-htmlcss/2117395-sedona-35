@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Sophie Kochetkova](https://up.htmlacademy.ru/htmlcss/35/user/2117395).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Остаповец] (https://htmlacademy.ru/profile/seraphim) .
 
 ---
 
